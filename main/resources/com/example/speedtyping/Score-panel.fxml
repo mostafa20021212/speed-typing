@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="400.0" prefWidth="826.0" style="-fx-background-color: #1D1C1D;" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.speedtyping.TypingGame">
+    <children>
+        <VBox fx:id="pane15" alignment="TOP_CENTER" layoutX="7.0" layoutY="62.0" prefHeight="331.0" prefWidth="271.0" spacing="10.0" style="-fx-background-color: transparent;" />
+        <VBox fx:id="pane30" alignment="TOP_CENTER" layoutX="279.0" layoutY="62.0" prefHeight="331.0" prefWidth="271.0" spacing="10.0" style="-fx-background-color: transparent;" />
+        <VBox fx:id="pane60" alignment="TOP_CENTER" layoutX="551.0" layoutY="62.0" prefHeight="331.0" prefWidth="285.0" spacing="10.0" style="-fx-background-color: transparent;" />
+        <Label layoutX="125.0" layoutY="4.0" text="15" textFill="#fba700">
+            <font>
+                <Font size="39.0" />
+            </font>
+        </Label>
+        <Label layoutX="388.0" layoutY="4.0" text="30" textFill="#fba700">
+            <font>
+                <Font size="39.0" />
+            </font>
+        </Label>
+        <Label layoutX="668.0" layoutY="4.0" text="60" textFill="#fba700">
+            <font>
+                <Font size="39.0" />
+            </font>
+        </Label>
+    </children>
+</AnchorPane>
