@@ -1,5 +1,4 @@
-Here’s a more  polished and visually appealing version of your README with modern Markdown formatting, emojis, and a professional touch:
-
+Here’s a more polished and visually appealing version of your README with modern Markdown formatting, emojis, and a professional touch:
 
 # TypeMaster - MonkeyType Clone ⌨️⏱️
 
@@ -14,31 +13,38 @@ A **feature-rich typing speed test application** inspired by MonkeyType, built w
 ## ✨ Features
 
 ### 🎮 **Game Modes**
+
 - **Original Mode**: Standard typing test.
 - **ZeroOne Mode**: Type only 0s and 1s for a unique challenge.
 - **UpperCase Mode**: All text in uppercase for extra difficulty.
 - **Custom Character Mode**: Define your own character set.
 
 ### ⏳ **Time Controls**
+
 - Choose from **15s**, **30s**, or **60s** time limits.
 
 ### 🤖 **AI Challenge**
+
 - Compete against an AI with **randomized typing speeds**.
 
 ### 🛠️ **Smart Error Correction**
+
 - `Shift` → Undo last character.
 - `Shift + Backspace` → Undo entire word.
 
 ### 📊 **Real-Time Statistics**
+
 - Live **WPM (Words Per Minute)** tracking.
 - **Accuracy percentage** and mistake highlighting.
 
 ### 🏆 **Leaderboard System**
+
 - Local and global rankings.
 - Mode-specific statistics.
 - Compare with friends.
 
 ### 👤 **User Features**
+
 - Profile management.
 - Data deletion option.
 - Performance analytics (common errors, speed trends).
@@ -48,10 +54,12 @@ A **feature-rich typing speed test application** inspired by MonkeyType, built w
 ## 💻 Installation
 
 ### Prerequisites
+
 - **JDK 17+**
 - **JavaFX 19+ SDK**
 
 ### Steps
+
 1. Clone the repository:
    ```bash
    git clone https://github.com/mostafa20021212/speed.git
@@ -65,36 +73,36 @@ A **feature-rich typing speed test application** inspired by MonkeyType, built w
 ## 🚀 Usage
 
 ### Typing Test
+
 1. Select your preferred **mode** and **time limit**.
 2. Press `Control + Enter` to restart the test.
 
 ### Leaderboards 👑
+
 - Click the **crown icon** to view rankings.
 
 ### AI Challenge
+
 - Click the **"Challenge AI"** button to compete.
 
 ### Profile Management ⚙️
+
 - Delete your data through the **profile settings**.
 
 ---
 
 ## 📷 Media
 
-
 https://github.com/user-attachments/assets/0b2cc0ce-7eaf-4419-b0f7-4754ae403978
 
-
-
 https://github.com/user-attachments/assets/8d8d7e0d-b19a-4cfe-9fab-04bfd6ce94ad
-
-
 
 ---
 
 ## 🤝 Contributing
 
 We welcome contributions! Here’s how you can help:
+
 1. **Fork** the repository.
 2. Create a **feature branch**.
 3. Submit a **Pull Request**.
@@ -104,14 +112,15 @@ Please ensure your code follows the project's style and includes proper document
 ---
 
 ## 👨‍💻 Created by **Mostafa**
+
 [![GitHub Profile](https://img.shields.io/badge/GitHub-Profile-blue?style=for-the-badge&logo=github)](https://github.com/mostafa20021212)
 
 ---
 
-
 ---
 
 **TypeMaster** is your ultimate typing companion. Start typing faster and smarter today! 🚀
+
 ```
 
 ### Key Improvements:
@@ -122,3 +131,4 @@ Please ensure your code follows the project's style and includes proper document
 5. **Call-to-Action**: Encourages users to start using the app.
 
 Let me know if you’d like further tweaks! 🎉
+```
