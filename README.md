@@ -1,10 +1,15 @@
+
 Here’s a more polished and visually appealing version of your README with modern Markdown formatting, emojis, and a professional touch:
+
 
 # TypeMaster - MonkeyType Clone ⌨️⏱️
 
-![Screenshot 2025-02-02 180308](https://github.com/user-attachments/assets/9f582183-a793-40ea-a9dd-bb7090e37539)
-![Screenshot 2025-02-02 180330](https://github.com/user-attachments/assets/caec7bd0-fb2f-49c9-99b5-7a236d46efcc)
-![Screenshot 2025-02-02 180614](https://github.com/user-attachments/assets/7d8125e7-5ade-4479-8136-74857e13b4b2)
+
+
+![Screenshot 2025-02-02 180308](https://github.com/user-attachments/assets/0b43ba7f-80f0-4bb1-a140-d04c14edbf5e)
+![Screenshot 2025-02-02 180330](https://github.com/user-attachments/assets/eae7ef98-9926-4dc7-958a-cbad29e0e078)
+![Screenshot 2025-02-02 180614](https://github.com/user-attachments/assets/720b4e79-3a2a-41f7-bc4b-77467f5bd368)
+
 
 A **feature-rich typing speed test application** inspired by MonkeyType, built with **Java** and **JavaFX**. Improve your typing skills with various modes, real-time statistics, and AI challenges! 🚀
 
@@ -93,9 +98,11 @@ A **feature-rich typing speed test application** inspired by MonkeyType, built w
 
 ## 📷 Media
 
+
 https://github.com/user-attachments/assets/0b2cc0ce-7eaf-4419-b0f7-4754ae403978
 
 https://github.com/user-attachments/assets/8d8d7e0d-b19a-4cfe-9fab-04bfd6ce94ad
+
 
 ---
 
