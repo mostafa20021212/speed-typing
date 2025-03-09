@@ -1,5 +1,4 @@
 
-Here’s a more polished and visually appealing version of your README with modern Markdown formatting, emojis, and a professional touch:
 
 
 # TypeMaster - MonkeyType Clone ⌨️⏱️
